@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: BreachData
+  m_EditorClassIdentifier: 
+  characterName: Breach
+  characterImage: {fileID: -4372004263469046287, guid: 125f10266628f24498d1f3c1052c8973, type: 3}
+  role: Initiator
+  description: Breach, the bionic Swede, fires powerful, targeted kinetic blasts
+    to aggressively clear a path through enemy ground. The damage and disruption
+    he inflicts ensures no fight is ever fair.

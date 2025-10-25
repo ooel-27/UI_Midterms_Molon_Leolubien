@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: JettData
+  m_EditorClassIdentifier: 
+  characterName: Jett
+  characterImage: {fileID: -8625880962430077449, guid: 3403d446bfa3eba4bac9e4e9922df7f7, type: 3}
+  role: Duelist
+  description: Representing her home country of South Korea, Jett's agile and evasive
+    fighting style lets her take risks no one else can. She runs circles around every
+    skirmish, cutting enemies before they even know what hit them.

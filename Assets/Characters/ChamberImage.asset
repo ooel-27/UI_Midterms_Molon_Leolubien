@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: ChamberImage
+  m_EditorClassIdentifier: 
+  characterName: Chamber
+  characterImage: {fileID: -6902567720398832885, guid: 72a7f0cf9632d2f4badb62ed754412ca, type: 3}
+  role: Sentinel
+  description: Well-dressed and well-armed, French weapons designer Chamber expels
+    aggressors with deadly precision. He leverages his custom arsenal to hold the
+    line and pick off enemies from afar, with a contingency built for every plan.
+    teams.

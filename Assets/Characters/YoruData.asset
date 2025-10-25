@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: YoruData
+  m_EditorClassIdentifier: 
+  characterName: Yoru
+  characterImage: {fileID: 4218333033267458518, guid: b152cbd45a224b844b4d2177bfcf6333, type: 3}
+  role: Duelist
+  description: Japanese native, Yoru, rips holes straight through reality to infiltrate
+    enemy lines unseen. Using deception and aggression in equal measure, he gets
+    the drop on each target before they know where to look.

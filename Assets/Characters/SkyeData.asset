@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: SkyeData
+  m_EditorClassIdentifier: 
+  characterName: Skye
+  characterImage: {fileID: -5890450339107359737, guid: b134c4ff08a0cdd4489dfa6793f2b377, type: 3}
+  role: Initiator
+  description: "Hailing from Australia, Skye and her band of beasts trail-blaze the
+    way through hostile territory. With her creations hampering the enemy, and her
+    power to heal others, the team is strongest and safest by Skye\u2019s side."

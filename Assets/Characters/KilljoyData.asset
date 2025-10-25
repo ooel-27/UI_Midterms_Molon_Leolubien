@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: KilljoyData
+  m_EditorClassIdentifier: 
+  characterName: Killjoy
+  characterImage: {fileID: -3682100329211451464, guid: ff91d9196f02d794ba433c71c0aa96e8, type: 3}
+  role: Sentinel
+  description: The genius of Germany. Killjoy secures the battlefield with ease using
+    her arsenal of inventions. If the damage from her gear doesn't stop her enemies,
+    her robots' debuff will help make short work of them.

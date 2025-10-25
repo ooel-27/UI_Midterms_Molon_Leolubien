@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: CloveData
+  m_EditorClassIdentifier: 
+  characterName: Clove
+  characterImage: {fileID: 8957324059118975939, guid: 9deefd4bd2fcd6849a4d03a80ab01851, type: 3}
+  role: Controller
+  description: Scottish troublemaker Clove makes mischief for enemies in both the
+    heat of combat and the cold of death. The young immortal keeps foes guessing,
+    even from beyond the grave, their return to the living only ever a moment away.

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: RazeData
+  m_EditorClassIdentifier: 
+  characterName: Raze
+  characterImage: {fileID: -4800933707999424703, guid: 315624e7e592431429f70358d386507d, type: 3}
+  role: Duelist
+  description: Raze explodes out of Brazil with her big personality and big guns.
+    With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies
+    and clearing tight spaces with a generous dose of "boom."

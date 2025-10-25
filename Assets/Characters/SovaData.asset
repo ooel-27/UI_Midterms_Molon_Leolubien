@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: SovaData
+  m_EditorClassIdentifier: 
+  characterName: Sova
+  characterImage: {fileID: -7907540660237621506, guid: 73b787d93087dc14b80eb4cc13d38132, type: 3}
+  role: Initiator
+  description: 'Born from the eternal winter of Russia''s tundra, Sova tracks, finds,
+    and eliminates enemies with ruthless efficiency and precision. His custom bow
+    and incredible scouting abilities ensure that even if you run, you cannot hide.
+
+'

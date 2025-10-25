@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: KayoData
+  m_EditorClassIdentifier: 
+  characterName: KAY/O
+  characterImage: {fileID: -7416939614386589731, guid: 083150d92afc8754a903f2988944856e, type: 3}
+  role: Initiator
+  description: 'KAY/O is a machine of war built for a single purpose: neutralizing
+    radiants. His power to Suppress enemy abilities dismantles his opponents'' capacity
+    to fight back, securing him and his allies the ultimate edge.'

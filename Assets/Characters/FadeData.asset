@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1559ed41eb50c7044b8a0c61fc219b33, type: 3}
+  m_Name: FadeData
+  m_EditorClassIdentifier: 
+  characterName: Fade
+  characterImage: {fileID: -2459997212589772163, guid: 7d3b597a2cf40844eb9e652865557722, type: 3}
+  role: Initiator
+  description: "Turkish bounty hunter, Fade, unleashes the power of raw nightmares
+    to seize enemy secrets. Attuned with terror itself, she hunts targets and reveals
+    their deepest fears\u2014before crushing them in the dark."
